@@ -1,0 +1,1 @@
+﻿New-ADGroup -Name $groupname -SameAccountName - GroupCategory $grpcategory -GroupScope %grpscope -Description "Members of this group are Business"
